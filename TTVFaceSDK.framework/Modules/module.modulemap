@@ -1,0 +1,6 @@
+framework module TTVFaceSDK {
+  umbrella header "TTVFaceSDK.h"
+
+  export *
+  module * { export * }
+}
